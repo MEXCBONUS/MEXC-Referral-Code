@@ -15,7 +15,7 @@
 <h2>4. How to Use the MEXC Referral Code (Step-by-Step Guide)</h2>
 <h3>4.1. Sign Up for MEXC</h3>
 <ol>
-    <li>Visit the <strong>MEXC official website</strong> or download the mobile app.</li>
+    <li>Visit the <strong><a href="https://www.mexc.com/register?inviteCode=mexc-1huHd" target="_blank">MEXC official website</a></strong> or download the mobile app.</li>
     <li>Click on <strong>Sign Up</strong> and enter your email or phone number.</li>
     <li>Enter the <strong>MEXC referral code: 1huHd</strong> in the designated field.</li>
 </ol>
